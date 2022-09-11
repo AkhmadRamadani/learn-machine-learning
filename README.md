@@ -11,7 +11,7 @@ The folder will have the following order like this:
 
 	- Minggu 1
 		- Jobsheet
-			- My Work
+			- ```my work that contains .ipynb is here```
 		- ...files that contain jobsheet or modules.
 
 
